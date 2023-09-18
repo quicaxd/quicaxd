@@ -26,5 +26,5 @@ I am a cybersecurity expert and software developer. This repository contains my 
 
 - 🅒 C
 - 🅒🅒 C++
-- 🅒# C#
+- 🅒 C#
 - 🐍 Python
