@@ -10,18 +10,6 @@ I am a cybersecurity expert and software developer. This repository contains my 
 - 🤖 Machine Learning
 - 🦠 Malware analysis & devolopment
 
-## Projects 🚀
-
-### Exela Stealer
-
-The best stealer with speed and many features.
-
-
-#### How to Use
-
-download from this link and read readme.md ![Download Link](https://github.com/quicaxd/Exela-V2.0)
-
-
 ## What I Can Do for You 💼
 
 - 🛡️ Cybersecurity consulting
