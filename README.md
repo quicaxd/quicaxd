@@ -1,6 +1,6 @@
 # Hi there, I'm quica! 👋
 
-I'm a cybersecurity expert and software developer passionate about open source projects and technology. Welcome to my GitHub repository, where I showcase my work and projects. Here's some key information about me:
+I'm a cybersecurity researcher and software developer passionate about open source projects and technology. Welcome to my GitHub repository, where I showcase my work and projects. Here's some key information about me:
 
 ## Interests 🌟
 
