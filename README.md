@@ -29,7 +29,7 @@ download from this link and read readme.md ![Download Link](https://github.com/q
 - Machine learning model deployment
 - Devolope or analys malware's
 
-## Contact
+## Contact 📞
 
 - [Email](quicaxdcontact@gmail.com)
 - [Twitter](https://twitter.com/quicaxdd)
