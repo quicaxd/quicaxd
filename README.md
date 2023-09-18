@@ -1,1 +1,1 @@
-# quicaxd.github.io
+# quicaxd
