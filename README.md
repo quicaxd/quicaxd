@@ -3,14 +3,14 @@
 
 I am a cybersecurity expert and software developer. This repository contains my open-source projects and works. Here is some essential information:
 
-## Interests
+## Interests 🌟
 
-- Cybersecurity
-- Software Development
-- Machine Learning
-- Malware analysis & devolopment
+- Cybersecurity 🔒
+- Software Development 💻
+- Machine Learning 🤖
+- Malware analysis & devolopment 🦠
 
-## Projects
+## Projects 🚀
 
 ### Exela Stealer
 
