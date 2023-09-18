@@ -1,28 +1,34 @@
-## Hello, I'm quica 👋
+# Hi there, I'm quica! 👋
 
-I am a cybersecurity expert and software developer. This repository contains my open-source projects and works. Here is some essential information:
+I'm a cybersecurity expert and software developer passionate about open source projects and technology. Welcome to my GitHub repository, where I showcase my work and projects. Here's some key information about me:
 
 ## Interests 🌟
 
 - 🔒 Cybersecurity
 - 💻 Software Development
 - 🤖 Machine Learning
-- 🦠 Malware analysis & devolopment
+- 🦠 Malware Analysis & Development
 
 ## What I Can Do for You 💼
 
-- 🛡️ Cybersecurity consulting
-- 🔐 Secure software development
-- 🤖 Machine learning model deployment 
-- 🦠 Devolope or analys malware's
+I offer a range of services to help you:
 
-## Contact 📞
+- 🛡️ Cybersecurity Consulting
+- 🔐 Secure Software Development
+- 🤖 Machine Learning Model Deployment
+- 🦠 Malware Development and Analysis
+
+## Contact Me 📞
+
+You can reach out to me through the following channels:
 
 - [✉️ Email](mailto:quicaxdcontact@gmail.com)
 - [🐦 Twitter](https://twitter.com/quicaxdd)
 - [📢 Telegram](https://t.me/quicaxd)
 
-## 🚀 Programming languages ​​I know at a professional level
+## 🚀 Programming Languages I'm Proficient In
+
+I have professional-level expertise in various programming languages:
 
 - 🅒 C
 - 🅒🅒 C++
