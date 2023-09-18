@@ -31,12 +31,13 @@ download from this link and read readme.md ![Download Link](https://github.com/q
 
 ## Contact 📞
 
-- [Email](quicaxdcontact@gmail.com)
-- [Twitter](https://twitter.com/quicaxdd)
-- [Telegram](https://t.me/quicaxd)
+- [✉️ Email](mailto:quicaxdcontact@gmail.com)
+- [🐦 Twitter](https://twitter.com/quicaxdd)
+- [📢 Telegram](https://t.me/quicaxd)
 
 ## 🚀 Programming languages ​​I know at a professional level
 
-- C++ & C
-- C#
-- Python
+- 🅒 C
+- 🅒🅒 C++
+- 🅒# C#
+- 🐍 Python
