@@ -1,6 +1,5 @@
 # Hello, I'm quica 👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/127431653?v=4/)
 
 I am a cybersecurity expert and software developer. This repository contains my open-source projects and works. Here is some essential information:
 
