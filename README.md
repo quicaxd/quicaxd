@@ -22,12 +22,12 @@ The best stealer with speed and many features.
 download from this link and read readme.md ![Download Link](https://github.com/quicaxd/Exela-V2.0)
 
 
-## What I Can Do for You
+## What I Can Do for You 💼
 
-- Cybersecurity consulting
-- Secure software development
-- Machine learning model deployment
-- Devolope or analys malware's
+- 🛡️ Cybersecurity consulting
+- 🔐 Secure software development
+- 🤖 Machine learning model deployment 
+- 🦠 Devolope or analys malware's
 
 ## Contact 📞
 
