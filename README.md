@@ -5,10 +5,10 @@ I am a cybersecurity expert and software developer. This repository contains my 
 
 ## Interests 🌟
 
-- Cybersecurity 🔒
-- Software Development 💻
-- Machine Learning 🤖
-- Malware analysis & devolopment 🦠
+- 🔒 Cybersecurity
+- 💻 Software Development
+- 🤖 Machine Learning
+- 🦠 Malware analysis & devolopment
 
 ## Projects 🚀
 
